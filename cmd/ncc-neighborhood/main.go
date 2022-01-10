@@ -29,7 +29,7 @@ Examples:
    List all of the parcels in Green Valley.
       ncc-neighborhood 'GREEN VALLEY 1' 'GREEN VALLEY 2A' 'GREEN VALLEY 2B' 'GREEN VALLEY 3' 'GREEN VALLEY V'
 
-   List all of the parcels in Green Valley.
+   List all of the parcels in Cotswold Hills.
       ncc-neighborhood 'COTSWOLD HILLS'
 `,
 		Args: cobra.MinimumNArgs(1),
