@@ -9,7 +9,12 @@ ncc-neighborhood > /path/to/results.csv
 You may ask for help via:
 
 ```
-ncc-neighborhood -help
+ncc-neighborhood --help
+```
+
+To get all of the homes in Green Valley in New Castle County, run:
+```
+ncc-neighborhood 'GREEN VALLEY 1' 'GREEN VALLEY 2A' 'GREEN VALLEY 2B' 'GREEN VALLEY 3' 'GREEN VALLEY V'
 ```
 
 ## Building
