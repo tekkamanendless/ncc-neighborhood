@@ -1,4 +1,4 @@
-module bitbucket.org/tekkamanendless/gvca-parcel
+module github.com/tekkamanendless/ncc-neighborhood
 
 go 1.24.0
 
